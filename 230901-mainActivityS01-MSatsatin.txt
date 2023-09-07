@@ -1,1 +1,3 @@
 Hi, My name is Mark Kenneth L. Satsatin
+
+I'm studying at De La Salle University Dasmarinas. I'm currently a 4th-year student in the course of computer science. I'm now in my last year of computer science, and I hope that I will graduate on time. There are a lot of assessments and activities that we do in our class. We also have two theses to draft and a research paper to submit. This is my first time using Github, and I encountered some problems, but I managed to resolve them.
